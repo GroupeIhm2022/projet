@@ -1,0 +1,58 @@
+F: C'est quoi ton prenom?
+B: Bouthaina
+F: Quel age as tu ?
+B: 20 ans
+F: De quel sexe vous identifiez vous ?
+B: Femme
+F: Quel est ton ethnicité ?
+B: Nord-Africaine
+F: Qu'est ce que tu fais dans temps libre ?
+B: Je fais du sport , je pratique de la box, j'aime aussi regarder des films et des series.
+F: A quoi ressemble ton quotidien ?
+B: je me leve le matin , je prends mon petit dejeuner , je prend le metro pour aller pour me rendre au travail.
+F: T'as  des poses pendant ton travail?
+B: Si j'ai une pause a midi
+F: Tu mange quoi en generale à midi ?
+B: je mange aux resto de mon travail
+F: C'etait quoi le dernier plat que tu as mangé ?
+B: C'etais du poisson panné et des legume bouilli
+F: Est ce que tu as un type de cuisine préféré ?
+B: La cuisine italienne
+F: Est ce que tu as un plat preféré dans la cuisine italienne?
+B: oui , la pizza.
+F: Est ce que tu prefere te faire à mangé ou manger dans un restaurant ?
+B: je prefere manger dans un restaurant
+F: A quelle frequence tu mange dans des restaurant ?
+B: Pas si frequemment
+F: une fois par semaine ? une toute les deux semaine ? une fois par mois ?
+B: Probablement, une fois par mois
+F: Quant tu es a un restaurant, comment tu choisit ce que tu vas prendre à partir du menu ?
+B: Je prends tout le temps la meme chose
+F: Est ce qu'il y a raison particulaire pour ca ? as tu eu une mauvaise experience lorsque tu a essaye de commander autre chose ?
+B: Non.
+F: T'as deja essayé commander autre chose ?
+B: oui mais je prefere rester sur mon choix.
+F: tu commandes tout le temps de la pizza du coup ?
+B: Non des fois je prends des hamburger
+F: As tu deja eu une mauvaise experience lorsque tu es sorti te faire un restaurant ?
+B: Non , pas vraiment , mais apres je suis pas le genre de personne qui sors beaucoup
+F: Ah ,ok, as tu deja eu une mauvaise experience avec une commande que tu t'es faite livré ?
+B: Un jour j'ai commandé un sandwich et j'ai rien trouver dans le pain
+F: As tu deja commander un truc qui ne t'as pas plu au final ?
+B: Non je ne me rappelle pas du moins, mais un jour j'etait sorti avec des potes et on avait tous commander la meme chose , c'etait tres bon mais j'ai eu une iintoxication
+F: Quel outils utilises tu pour chercher un restaurant ou manger ?
+B: les reseaux sociaux, je regarde les revus du restaurant en question
+F: Qu'est ce que les restaurant que tu aimes en en commun
+B: je sais pas trop , probablement le fait qu'ils soient tous recommendé par les reseaux sociaux
+F: Comment tu decouvres de nouveau plat ?
+B: euh , probablement quand je suis chez des amis et qu'ils preparent de nouveau plat , ou quand je voyage vers d'autre pays , comme par exemple la dernière fois que j'etais en turquie j'ai decouvert leurs plats a eux
+F: Donc t'as jamais manger dehors et que ca ne t'as pas plu ?
+B: Non , parce que , au faite quand je vais dans des restau je regarde toujours le plats le mieux noté par les clients du restau et je prends celui ci.
+F: Quel plat aime tu cuisiner ?
+B: J'aime preparé des pates.
+F: Ou est ce que tu fais tes courses ?
+B: Carrefour.
+F: Est ce que tu trouve tous ce dont tu as besoin dans le carrefour ?
+B: Oui.
+F: Est ce qu'il a des produit que tu trouve difficilement dans les grande surface ?
+B: Oui, la viande hallal
